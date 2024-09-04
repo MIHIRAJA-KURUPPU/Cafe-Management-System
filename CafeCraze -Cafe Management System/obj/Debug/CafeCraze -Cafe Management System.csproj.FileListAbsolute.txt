@@ -1,0 +1,88 @@
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\CafeCraze -Cafe Management System.exe.config
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\CafeCraze -Cafe Management System.exe
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\CafeCraze -Cafe Management System.pdb
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\Bunifu.Licensing.dll
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\RestSharp.dll
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Buffers.dll
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.CodeDom.dll
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Memory.dll
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Text.Json.dll
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.ValueTuple.dll
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\RestSharp.xml
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Buffers.xml
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.CodeDom.xml
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Memory.xml
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Text.Json.xml
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.ValueTuple.xml
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze -Cafe Management System.csproj.AssemblyReference.cache
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze__Cafe_Management_System.Form1.resources
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze__Cafe_Management_System.Properties.Resources.resources
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze -Cafe Management System.csproj.GenerateResource.cache
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze -Cafe Management System.csproj.CoreCompileInputs.cache
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraz.C16645CF.Up2Date
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze -Cafe Management System.exe
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze -Cafe Management System.pdb
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze__Cafe_Management_System.GuestOrder.resources
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze__Cafe_Management_System.UserOrder.resources
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze__Cafe_Management_System.ItemsForm.resources
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze__Cafe_Management_System.UsersForm.resources
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\Guna.UI2.dll
+C:\Users\mihir\source\repos\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze__Cafe_Management_System.ViewOrders.resources
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\CafeCraze -Cafe Management System.exe.config
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\CafeCraze -Cafe Management System.exe
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\CafeCraze -Cafe Management System.pdb
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\Bunifu.Licensing.dll
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\Bunifu.UI.WinForms.dll
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\Guna.UI2.dll
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\Newtonsoft.Json.dll
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\RestSharp.dll
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Buffers.dll
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.CodeDom.dll
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Memory.dll
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Numerics.Vectors.dll
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Text.Encodings.Web.dll
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Text.Json.dll
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.ValueTuple.dll
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\Bunifu.UI.WinForms.xml
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\Newtonsoft.Json.xml
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\RestSharp.xml
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Buffers.xml
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.CodeDom.xml
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Memory.xml
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Numerics.Vectors.xml
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Text.Encodings.Web.xml
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Text.Json.xml
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\bin\Debug\System.ValueTuple.xml
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze -Cafe Management System.csproj.AssemblyReference.cache
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze__Cafe_Management_System.Form1.resources
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze__Cafe_Management_System.GuestOrder.resources
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze__Cafe_Management_System.ItemsForm.resources
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze__Cafe_Management_System.Properties.Resources.resources
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze__Cafe_Management_System.UserOrder.resources
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze__Cafe_Management_System.UsersForm.resources
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze__Cafe_Management_System.ViewOrders.resources
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze -Cafe Management System.csproj.GenerateResource.cache
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze -Cafe Management System.csproj.CoreCompileInputs.cache
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraz.C16645CF.Up2Date
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze -Cafe Management System.exe
+F:\BIT\CafeCraze -Cafe Management System\CafeCraze -Cafe Management System\obj\Debug\CafeCraze -Cafe Management System.pdb
