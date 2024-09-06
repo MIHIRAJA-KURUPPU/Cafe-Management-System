@@ -41,6 +41,8 @@ The **Cafe Management System** focuses on:
 ### 1. **Login Form**
 This form authenticates users based on their role (staff or guest). It ensures that only registered users can manage orders, inventory, and users.
 
+![Picture1](https://github.com/user-attachments/assets/9c97999d-29ff-4a8d-b360-eba5ba23bb06)
+
 ### 2. **Order Management**
 - Allows users to add items to an order.
 - Displays the order summary.
