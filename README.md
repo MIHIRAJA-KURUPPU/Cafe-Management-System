@@ -53,6 +53,8 @@ This form authenticates users based on their role (staff or guest). It ensures t
 - Tracks real-time stock levels.
 - Automatically updates inventory based on orders placed.
 
+![Item Form](https://github.com/user-attachments/assets/48ef36e4-b94d-487c-a204-57dd7012361a)
+
 ### 4. **User Management**
 - Handles user roles (admin, staff, guest).
 - Adds, updates, and removes users from the system.
